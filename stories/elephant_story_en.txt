@@ -1,0 +1,3 @@
+an elephant=RTag alligator=WTag \\pau=500\\
+and a mouse=RTag fox=WTag \\pau=500\\
+sitting=RTag eating=WTag on a house

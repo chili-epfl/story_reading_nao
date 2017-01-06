@@ -1,0 +1,3 @@
+A red=RTag brown=WTag Fox \\pau=500\\
+in blue=RTag green=WTag socks \\pau=500\\
+doing tricks with orange clocks=RTag rocks=WTag

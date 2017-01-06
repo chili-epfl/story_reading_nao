@@ -1,0 +1,3 @@
+\\rspd=80\\ a bear=RTag frog=WTag \\pau=500\\
+\\rspd=80\\ on a chair=RTag rug=WTag \\pau=1000\\
+\\rspd=90\\ No!!! don't sit=RTag sleep=WTag there \\pau=500\\

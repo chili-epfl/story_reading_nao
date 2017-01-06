@@ -1,0 +1,4 @@
+<launch>
+  <node name="key_publisher_1" pkg="story_reading_nao" type="key_publisher.py" />
+  <node name="reading_story_1" pkg="story_reading_nao" type="reading_a_story_msgs_ver1.py" />
+</launch>

@@ -1,0 +1,3 @@
+\\rspd=70\\ a duck 
+\\rspd=70\\ and a goat=RTag rabbit=WTag \\pau=500\\
+\\rspd=90\\ go sailing on a boat=RTag train=WTag

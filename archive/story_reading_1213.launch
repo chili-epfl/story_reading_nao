@@ -1,0 +1,11 @@
+<launch>
+  <arg name="level" default="medium" /> <!-- can be easy, medium or hard-->
+  <node name="key_publisher_1" pkg="story_reading_nao" type="key_publisher.py" />
+  <node name="reading_story_1" pkg="story_reading_nao" type="story_event.py" />
+     <param name="fox_story_en" textfile="$(find story_reading_nao)/stories/fox_story_en.txt"/>
+     <param name="elephant_story_en" textfile="$(find story_reading_nao)/stories/elephant_story_en.txt"/>
+     <param name="goat_story_en" textfile="$(find story_reading_nao)/stories/goat_story_en.txt"/>
+     <param name="bear_story_en" textfile="$(find story_reading_nao)/stories/bear_story_en.txt"/>
+     <param name="chick_story_en" textfile="$(find story_reading_nao)/stories/chick_story_en.txt"/>
+     <param name="actlevel" value="$(arg level)" /> 
+</launch>
